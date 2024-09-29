@@ -34,7 +34,7 @@
         }
       ],
       "properties": {
-        "Node name for S&R": "CLIPTextEncode"
+        "Node name for S&R": "CLIPTextEncode-1"
       },
       "widgets_values": [
         "text, watermark"
